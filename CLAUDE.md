@@ -10,3 +10,9 @@
 ## 파일 사용 규칙
 
 - 실습에서 사용하는 파일은 **README.md 파일만 사용**합니다.
+
+## 커밋 컨벤션
+
+커밋 메시지 작성 규칙은 아래 문서를 참고하세요.
+
+- [Commit Convention](docs/COMMIT_CONVENTION.md)
